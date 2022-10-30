@@ -62,7 +62,7 @@ public class Trees {
     }
 
     public static void main(String[] args) {
-        System.out.println("Hesllo World!");
+        System.out.println("This is how a tree works");
 
         int data = 8;
         Node leafNode = new Node(45);
